@@ -1,0 +1,21 @@
+/*Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.*/
+insert into employee (id, name, email, birthday) values (1, 'Belicia', 'bpoller0@google.com.br', '1927-02-24');
+insert into employee (id, name, email, birthday) values (2, 'Alix', 'afazakerley1@comsenz.com', '1963-03-11');
+insert into employee (id, name, email, birthday) values (3, 'Heloise', 'hlintill2@deliciousdays.com', '1906-07-28');
+insert into employee (id, name, email, birthday) values (4, 'Roselle', 'rphilbrick3@hostgator.com', '1989-07-06');
+insert into employee (id, name, email, birthday) values (5, 'Keri', 'knockolds4@bbb.org', '1940-08-19');
+insert into employee (id, name, email, birthday) values (6, 'Luisa', 'laucoate5@unicef.org', '2024-02-02');
+insert into employee (id, name, email, birthday) values (7, 'Anitra', 'awaddell6@amazon.co.uk', '1912-12-23');
+insert into employee (id, name, email, birthday) values (8, 'Kim', 'khyatt7@loc.gov', '1911-11-19');
+insert into employee (id, name, email, birthday) values (9, 'Rochell', 'rchotty8@abc.net.au', '1914-12-20');
+insert into employee (id, name, email, birthday) values (10, 'Loutitia', 'lnemchinov9@archive.org', '1962-07-06');
+insert into employee (id, name, email, birthday) values (11, 'Doreen', 'dmccoughana@intel.com', '1963-10-09');
+insert into employee (id, name, email, birthday) values (12, 'Ewart', 'ewarrenerb@apache.org', '1985-08-27');
+insert into employee (id, name, email, birthday) values (13, 'Dori', 'dawdryc@dailymotion.com', '1930-07-27');
+insert into employee (id, name, email, birthday) values (14, 'Farlie', 'fcollocottd@tinyurl.com', '1965-01-23');
+insert into employee (id, name, email, birthday) values (15, 'Helyn', 'hronchie@macromedia.com', '1941-12-03');
+insert into employee (id, name, email, birthday) values (16, 'Lark', 'lvanmerwef@eventbrite.com', '1969-06-14');
+insert into employee (id, name, email, birthday) values (17, 'Tedra', 'theadlandg@wisc.edu', '1996-12-18');
+insert into employee (id, name, email, birthday) values (18, 'Lou', 'lwebbh@nps.gov', '2015-05-16');
+insert into employee (id, name, email, birthday) values (19, 'Franzen', 'fadiscoti@npr.org', '1944-04-02');
+insert into employee (id, name, email, birthday) values (20, 'Emilia', 'edurnoj@ifeng.com', '1991-05-27');
